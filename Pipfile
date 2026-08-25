@@ -9,6 +9,8 @@ ipykernel = "*"
 scikit-learn = "*"
 requests = "*"
 pandas = "*"
+openpyxl = "*"
+matplotlib = "*"
 
 [dev-packages]
 
